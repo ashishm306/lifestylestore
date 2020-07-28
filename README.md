@@ -1,2 +1,2 @@
 # lifestylestore
-
+added to heroku
